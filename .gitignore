@@ -131,6 +131,7 @@ celerybeat.pid
 .env
 .venv
 env/
+whatsapptxtSumm/
 venv/
 ENV/
 env.bak/
